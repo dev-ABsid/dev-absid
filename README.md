@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [React Iconly Icons](https://react-iconly.jrgarciadev.com)
 
-- 🌱 I’m currently learning **WEB3**
+- 🌱 I’m currently learning **LLM**
 
 - 👨‍💻 All of my projects are available at [https://www.awbnext.com/awbportfolio](https://www.awbnext.com/awbportfolio)
 
