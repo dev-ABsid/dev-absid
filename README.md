@@ -5,10 +5,6 @@
 
 - 🌱 I’m currently learning **LLM**
 
-- 👨‍💻 All of my projects are available at [https://www.awbnext.com/awbportfolio](https://www.awbnext.com/awbportfolio)
-
-- 📝 I regularly write articles on [https://abstack.pk](https://abstack.pk)
-
 - 💬 Ask me about **reactJs, nextJs, nodeJs, WordPress**
 
 - 📫 How to reach me **developer@awbnext.com**
