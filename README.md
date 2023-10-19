@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **reactJs, nextJs, nodeJs, WordPress**
 
-- 📫 How to reach me **developer@awbnext.com**
+- 📫 How to reach me **sy3dabubak4r@gmail.com**
 
 - 📄 Know about my experiences [https://www.awbnext.com/cv/abubakar-cv.pdf](https://www.awbnext.com/cv/abubakar-cv.pdf)
 
