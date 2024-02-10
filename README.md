@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Syed Abubakar</h1>
 <h3 align="center">A passionate full stack developer from Pakistan</h3>
 
-- 🔭 I’m currently working on [React Iconly Icons](https://react-iconly.jrgarciadev.com)
+- 🔭 I’m currently working on [Himalaya-ui](https://github.com/red-ninjas/himalaya-ui)
 
 - 🌱 I’m currently learning **LLM**
 
